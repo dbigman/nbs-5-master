@@ -1,0 +1,32 @@
+nb_customers_on_day,sales
+"                    Statistic         Value
+0                        Mean  6.333986e+02
+1                      Median  6.090000e+02
+2                        Mode  0.000000e+00
+3                       Range  5.458000e+03
+4                    Variance  2.153836e+05
+5          Standard Deviation  4.640944e+02
+6   Interquartile Range (IQR)  4.330000e+02
+7                    Skewness  1.588481e+00
+8                    Kurtosis  7.019139e+00
+9                     Minimum  0.000000e+00
+10                    Maximum  5.458000e+03
+11                        Sum  4.059071e+08
+12                      Count  6.408400e+05
+13            25th Percentile  4.050000e+02
+14            75th Percentile  8.380000e+02","                    Statistic         Value
+0                        Mean  5.777469e+03
+1                      Median  5.746000e+03
+2                        Mode  0.000000e+00
+3                       Range  4.155100e+04
+4                    Variance  1.483281e+07
+5          Standard Deviation  3.851338e+03
+6   Interquartile Range (IQR)  4.129000e+03
+7                    Skewness  6.423663e-01
+8                    Kurtosis  1.798453e+00
+9                     Minimum  0.000000e+00
+10                    Maximum  4.155100e+04
+11                        Sum  3.702433e+09
+12                      Count  6.408400e+05
+13            25th Percentile  3.731000e+03
+14            75th Percentile  7.860000e+03"
