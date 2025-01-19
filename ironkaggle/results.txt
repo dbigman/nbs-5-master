@@ -1,0 +1,5 @@
+	xgboost
+r2	0.77
+MSE	2,247,417 
+
+model: xgboost_1737250532_ironkaggle.pkl
